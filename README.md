@@ -10,7 +10,7 @@ The dataset that we use for the prediction of the built model is [DATASET](https
 Then the reference we used in building our model from Kaggle [Reference](https://www.kaggle.com/code/jonathanoheix/face-expression-recognition-with-deep-learning).
 
 Making Prediction Models (Machine Learning)
-From the dataset there are 32,887 data and for this model we use 7 facial expressions which will produce output in the form of facial expression categories that are inputted in the form of anger, disgust, fear, happy, neutral, sad, and surprised. In general, we do data preprocessing, which is to divide the data for training and model validation. In this model we use 28,821 data samples for training and 7,066 data samples for validation. After that we build the model with tensorflow. The Machine Learning Path uses Jupyter Lab to build models and pre-implementation processes.
+From the dataset there are 32,887 data and for this model we use 7 facial expressions which will produce output in the form of facial expression categories that are inputted in the form of anger, disgust, fear, happy, neutral, sad, and surprised. In general, we do data preprocessing, which is to divide the data for training and model validation. In this model we use 28,821 data samples for training and 7,066 data samples for validation. After that we build the model with tensorflow. Then the model will generate a predictive output of [REF]()The Machine Learning Path uses Jupyter Lab to build models and pre-implementation processes.
 
 
 
