@@ -17,6 +17,29 @@ The Machine Learning Path uses Jupyter Lab to build models and pre-implementatio
 
 
 ## Mobile Development
+**Overview In MEY APP For Android**
+- Enter Ml model into android and receive service from Cloud. Build XML and Build back end from Kotlin.
+- Build design from Figma Link figma for you see design MEY APP -> [Design MEY APP](https://www.figma.com/file/FL57bUQYkV7VvdvqbUxEL2/MEY?node-id=255%3A193)
+
+
+**Libary Use**
+- [Coil](https://coil-kt.github.io/coil/) -> **For fect image from internet**
+- [Tensor Flow](https://www.tensorflow.org/lite/inference_with_metadata/lite_support) -> **For model machine learning to android**
+- [Retrofit](https://square.github.io/retrofit/) -> **For request API**
+- [DataStore](https://developer.android.com/topic/libraries/architecture/datastore?hl=id) -> **For local saved in android**
+- [Shimmer](https://facebook.github.io/shimmer-android/) -> **For loading Cardview in android**
+- [Karumi Dexter](https://github.com/Karumi/Dexter) -> **For permission in android**
+- [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) -> **For observer live data**
+- [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android?hl=id) -> **For inject to constructor in viewmodel
+- [Firebase Auth](https://firebase.google.com/products/auth?gclsrc=aw.ds&gclid=CjwKCAjw14uVBhBEEiwAaufYx_byR8Qg-gpiqSa2sBK6Kh04k0UaCVVXoyVaw9AAQYgXD-0NtY6FLBoCrwwQAvD_BwE) -> **For authentication for user**
+- [Firebase database](https://firebase.google.com/products/realtime-database?gclsrc=aw.ds&gclid=CjwKCAjw14uVBhBEEiwAaufYx6T0mwE4qaer1nVB4A20GkmtkOnEz3aQCkRLorW1z9fyI1mSEFCLHxoCeSMQAvD_BwE) -> **For database all data user in android**
+- [ViewPager](https://developer.android.com/training/animation/screen-slide) -> **For slider in OnBoarding**
+
+**Architecture Use In Android**
+|Architecture MVVM | Overview Architecture |
+|--|--|
+|![alt text](https://raw.githubusercontent.com/MEY-Mental-Education-Yes/The-Logo-MEY/main/mvvm.png)| Model–view–viewmodel (MVVM) is a software architectural pattern that facilitates the separation of the development of the graphical user interface (the view) – be it via a markup language or GUI code – from the development of the business logic or back-end logic (the model) so that the view is not dependent on any specific model platform.
+
 
 
 ## Cloud Computing
